@@ -1,0 +1,11 @@
+{
+    "num_episodes": 10000,
+    "buffer_size": 100000,
+    "hidden_dim": 256,
+    "actor_lr": 0.001,
+    "critic_lr": 0.001,
+    "gamma": 0.92,
+    "lmbda": 0.92,
+    "epochs": 10,
+    "episilon": 0.2
+}
